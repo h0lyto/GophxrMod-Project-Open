@@ -1,6 +1,4 @@
-This is the Project GophxrMod from [Up[InternetShortcut]
-URL=https://www.nexusmods.com/schedule1/mods/1656
-loading GophxrMod at Schedule I Nexus - Mods and community.url…]()
+This is the Project GophxrMod from https://www.nexusmods.com/schedule1/mods/1656
 
 What is GophxrMod?
 
