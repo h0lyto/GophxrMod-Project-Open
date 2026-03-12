@@ -1,0 +1,7 @@
+This is the Project GophxrMod from [Up[InternetShortcut]
+URL=https://www.nexusmods.com/schedule1/mods/1656
+loading GophxrMod at Schedule I Nexus - Mods and community.url…]()
+
+What is GophxrMod?
+
+A MelonLoader mod for Schedule 1 (v0.4.3f3) that adds Gophxr as a custom NPC with branded clothing items. Find him roaming Northtown, buy his merch, and make him a customer!
