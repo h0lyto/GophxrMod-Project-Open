@@ -1,4 +1,5 @@
 This is the Project GophxrMod from https://www.nexusmods.com/schedule1/mods/1656
+Free to use and edit!
 
 What is GophxrMod?
 
